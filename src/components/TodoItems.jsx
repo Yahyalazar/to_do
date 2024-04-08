@@ -37,3 +37,4 @@ export const TodoItems = ({no,text,display,setTodo}) => {
   )
 }
 export default TodoItems;
+  
